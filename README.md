@@ -1,0 +1,1 @@
+# App for fetching news from Hacker News API
